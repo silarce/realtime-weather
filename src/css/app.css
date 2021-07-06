@@ -1,0 +1,21 @@
+.container {
+  background-color: #ededed;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.weather-card {
+  min-width: 360px;
+  -webkit-box-shadow: 0 1px 3px 0 #999;
+          box-shadow: 0 1px 3px 0 #999;
+  background-color: #f9f9f9;
+}
+/*# sourceMappingURL=app.css.map */
